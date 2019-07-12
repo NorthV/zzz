@@ -1,0 +1,20 @@
+{
+    "name": "northv/zzz",
+    "description": "...",
+    "type": "symfony-bundle",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "An Mikhail",
+            "email": "mikl@mgr.su"
+        }
+    ],
+    "require": {
+        "php": "^7.3"
+    },
+    "autoload": {
+        "psr-4" : {
+            "Aaa\\ZzzBundle\\": ""
+        }
+    }
+}
